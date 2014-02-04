@@ -1,0 +1,23 @@
+this is a line that won't be found!
+tihs is a line that will be found!
+Here is what wiki says about transpositoin errors:
+Transcription and transposition errors are found everywhere,
+even in professoinal articles in newspapers or books whether fictional or factual.
+They can be missed by editors quite simply, just as they can be typed quite simply.
+The most obvious cure for the errors is for the user to watch the screen when they type,
+and to proof read. If the entry is occurring in data capture forms, databases or subscription forms,
+the coder of the forms or the database administrator should use input masks or validation rules.
+Transcription and transposition errors may also occur in syntax when Computer programming or programming within variable declaration or within coding parameters 
+ this should be checked by proof reading
+ however syntax errors may be picked up by the program the author is using
+ Common desktop publishing and word processing applications use spell checkers and grammar checkers which may pick up on some transcription
+transposition errors 
+ not all errors may be picked up however
+ as some errors may form new words which fit grammatically
+ For instance if the user wished to write 
+The fog was dense but instaed put The dog was dense
+ a grammar and spell checker would not notify the user because both phrases are grammatically correct
+ as is the spelling of the word dog and fog
+ Unfortunately the situation regarding these errors is likely to get worse before it gets better
+ as workload for users and workers regarding manual direct data entry (DDE) devices increases.
+waset not wnat 
